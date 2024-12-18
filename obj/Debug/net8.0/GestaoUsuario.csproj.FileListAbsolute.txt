@@ -1,10 +1,3 @@
-C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.csproj.AssemblyReference.cache
-C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.AssemblyInfoInputs.cache
-C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.AssemblyInfo.cs
-C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.csproj.CoreCompileInputs.cache
-C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.MvcApplicationPartsAssemblyInfo.cs
-C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.MvcApplicationPartsAssemblyInfo.cache
 C:\Projeto-SmartTI\GestaoUsuario\bin\Debug\net8.0\appsettings.Development.json
 C:\Projeto-SmartTI\GestaoUsuario\bin\Debug\net8.0\appsettings.json
 C:\Projeto-SmartTI\GestaoUsuario\bin\Debug\net8.0\GestaoUsuario.exe
@@ -98,6 +91,14 @@ C:\Projeto-SmartTI\GestaoUsuario\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Work
 C:\Projeto-SmartTI\GestaoUsuario\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Projeto-SmartTI\GestaoUsuario\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Projeto-SmartTI\GestaoUsuario\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.csproj.AssemblyReference.cache
+C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.AssemblyInfoInputs.cache
+C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.AssemblyInfo.cs
+C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.csproj.CoreCompileInputs.cache
+C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.MvcApplicationPartsAssemblyInfo.cs
+C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.MvcApplicationPartsAssemblyInfo.cache
+C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\GestaoUsuario.sourcelink.json
 C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\staticwebassets.build.json
 C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\staticwebassets.development.json
 C:\Projeto-SmartTI\GestaoUsuario\obj\Debug\net8.0\staticwebassets\msbuild.GestaoUsuario.Microsoft.AspNetCore.StaticWebAssets.props

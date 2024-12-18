@@ -1,8 +1,6 @@
-using System.Collections.Generic;
-using System.Threading.Tasks;
 using GestaoUsuario.Models;
 
-namespace GestaoUsuario.Repositories
+namespace GestaoUsuario.Interface
 {
     public interface IUserRepository
     {

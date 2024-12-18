@@ -1,8 +1,7 @@
 // Controllers/AuthController.cs
-using Microsoft.AspNetCore.Mvc;
 using GestaoUsuario.Models;
 using GestaoUsuario.Services;
-using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 
 namespace GestaoUsuario.Controllers
 {

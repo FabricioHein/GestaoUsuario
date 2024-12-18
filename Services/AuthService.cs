@@ -1,15 +1,11 @@
 // Services/AuthService.cs
-using GestaoUsuario.Repositories;
-using GestaoUsuario.Data;
+using GestaoUsuario.Interface;
 using GestaoUsuario.Models;
-using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
-using System;
 using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
 using System.Security.Claims;
 using System.Text;
-using System.Threading.Tasks;
+
 
 
 namespace GestaoUsuario.Services
@@ -17,7 +13,7 @@ namespace GestaoUsuario.Services
     public class AuthService : IAuthService
     {
         private readonly IUserRepository _userRepository;
-       
+
         private readonly IConfiguration _configuration;
 
         public AuthService(IUserRepository userRepository, IConfiguration configuration)
@@ -42,7 +38,7 @@ namespace GestaoUsuario.Services
             return "Email is already registered.";
 
 
-        }     
+        }
 
         public async Task<string> Login(User user)
         {

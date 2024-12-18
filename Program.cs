@@ -1,11 +1,11 @@
+using GestaoUsuario.Data;
+using GestaoUsuario.Interface;
+using GestaoUsuario.Repositories;
+using GestaoUsuario.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using Microsoft.Extensions.DependencyInjection;
 using System.Text;
-using GestaoUsuario.Data;
-using GestaoUsuario.Services;
-using GestaoUsuario.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 

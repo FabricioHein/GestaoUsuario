@@ -1,5 +1,4 @@
 // Services/IAuthService.cs
-using System.Threading.Tasks;
 using GestaoUsuario.Models;
 
 namespace GestaoUsuario.Services

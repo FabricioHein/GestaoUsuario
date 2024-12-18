@@ -20,6 +20,6 @@ namespace GestaoUsuario.Models
         [MaxLength(100)]
         public string Email { get; set; }
 
-       
+
     }
 }
